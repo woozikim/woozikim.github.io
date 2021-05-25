@@ -1,0 +1,32 @@
+ 
+body 
+    {
+        background-color: lightgreen;
+	border:10px solid hotpink;
+    }
+table, td{
+    border: 5px;
+}
+
+p1{color:black;
+ font-family: rockwell;
+ font-size: 80px;
+text-align: center;}
+
+p{color: black;
+font-family: courier new;
+text-align: center;
+font-size:25px}
+
+thead{color: pink;}
+
+#kim:td{color: blue;
+    font-family: rockwell;
+    font-size: 20px;
+    padding: 10px;}
+#pia:td
+{color: pink;
+    font-family: rockwell;
+    font-size: 20px;
+    padding: 10px;}
+
